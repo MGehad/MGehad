@@ -22,10 +22,12 @@ Feel free to check out more of my work on [GitHub](https://github.com/MGehad/).
 - JAVA
 - JAVA FX
 - OOP
+- Flutter
+- Dart
 - HTML
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MGehad&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MGehad&langs_count=5&theme=tokyonight)]()
 
 
 ## 📫 Contact Me
