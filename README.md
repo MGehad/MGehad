@@ -24,16 +24,9 @@ Feel free to check out more of my work on [GitHub](https://github.com/MGehad/).
 - OOP
 - HTML
 
-## ✨ Visitors 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=MGehad.visitor-badge)
-
-## 📊 GitHub Stats
-
-![GitHub Followers](https://img.shields.io/github/followers/MGehad?label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/MGehad?label=Stars)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MGehad)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/MGehad)
 
 ## 📫 Contact Me
 
