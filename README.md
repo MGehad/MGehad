@@ -36,6 +36,7 @@ I love learning and solving real-life problems with technology. My interests spa
 
 Here are a few cool projects I've worked on:
 
+- [Sudoku](https://github.com/MGehad/Sudoku_Game): A sleek and user-friendly Sudoku game built using Flutter.
 - [Doodle Jump](https://github.com/K4rimCraft/DoodleJump): A version of the classic game DoodleJump using Java and the JavaFX Library.
 - [Resto](https://github.com/K4rimCraft/Restaurant-App): I developed the user interface for an online restaurant store application.
 - [Field Calculator](https://github.com/MGehad/Field-Calculator): A smartphone application solving various problems in the field subject.
@@ -45,18 +46,24 @@ Feel free to check out more of my work on [GitHub](https://github.com/MGehad/).
 
 ## 🛠️ Languages and Tools
 
-- C
-- JAVA
-- OOP
-- JAVA FX
-- FLUTTER
-- DART
-- MYSQL
-- FIREBASE
-- ANDROID STUDIO
-- VS CODE
-- GIT
-- GITHUB
+- **Languages**: 
+  - C
+  - Java
+  - Dart
+
+- **Frameworks & Libraries**: 
+  - Flutter
+  - JavaFX
+
+- **Databases**: 
+  - MySQL
+  - Firebase
+
+- **Tools**: 
+  - Android Studio
+  - VS Code
+  - Git
+  - GitHub
 
 
 ## Github Contribution Streak 🔥 
