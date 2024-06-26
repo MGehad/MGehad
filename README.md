@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 💬 Ask me about **Flutter, Kotlin, Java, Opp, C**
+- 💬 Ask me about **Flutter, Dart, Java, Opp, C**
 
 - 📫 Reach me at **ENGMGehad@gmail.com**
 
@@ -91,5 +91,5 @@ Feel free to check out more of my work on [GitHub](https://github.com/MGehad/).
 ------
 Credit: [Mohamed Gehad](https://github.com/MGehad)
 
-Last Edited on: 02/05/2024
+Last Edited on: 26/06/2024
 
