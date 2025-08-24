@@ -1,6 +1,6 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Mohamed+Gehad+Hussien;Third+Year+Student;Zagazig+University;Computers+and+Systems;Android+App+Developer;Flutter+Developer;%40MGehad">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Mohamed+Gehad+Hussien;Last+Year+Student;Zagazig+University;Computers+and+Systems;Android+App+Developer;Flutter+Developer;%40MGehad">
 </p>
 	<img src="https://komarev.com/ghpvc/?username=MGehad&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
@@ -36,9 +36,9 @@ I love learning and solving real-life problems with technology. My interests spa
 
 Here are a few cool projects I've worked on:
 
-- [Sudoku](https://github.com/MGehad/Sudoku_Game): A sleek and user-friendly Sudoku game built using Flutter.
-- [Doodle Jump](https://github.com/K4rimCraft/DoodleJump): A version of the classic game DoodleJump using Java and the JavaFX Library.
+- [You Do](https://play.google.com/store/apps/details?id=mohamed.gehad.you_do): A productivity app that transforms YouTube playlists into actionable tasks.
 - [Resto](https://github.com/K4rimCraft/Restaurant-App): I developed the user interface for an online restaurant store application.
+- [Sudoku](https://github.com/MGehad/Sudoku_Game): A sleek and user-friendly Sudoku game built using Flutter.
 - [Field Calculator](https://github.com/MGehad/Field-Calculator): A smartphone application solving various problems in the field subject.
 
 Feel free to check out more of my work on [GitHub](https://github.com/MGehad/).
@@ -47,17 +47,18 @@ Feel free to check out more of my work on [GitHub](https://github.com/MGehad/).
 ## 🛠️ Languages and Tools
 
 - **Languages**: 
-  - C
-  - Java
   - Dart
+  - Java
+  - C
 
 - **Frameworks & Libraries**: 
   - Flutter
   - JavaFX
 
-- **Databases**: 
-  - MySQL
+- **Databases**:
+  - Supabase
   - Firebase
+  - Hive
 
 - **Tools**: 
   - Android Studio
@@ -91,5 +92,5 @@ Feel free to check out more of my work on [GitHub](https://github.com/MGehad/).
 ------
 Credit: [Mohamed Gehad](https://github.com/MGehad)
 
-Last Edited on: 26/06/2024
+Last Edited on: 24/08/2025
 
