@@ -33,7 +33,7 @@ I love learning and solving real-life problems with technology. My interests spa
 ## 🌟 Featured Projects  
 
 - 📌 [**You Do**](https://play.google.com/store/apps/details?id=mohamed.gehad.you_do) – Productivity app that transforms YouTube playlists into actionable tasks.  
-- 📌 [**Resto**](https://bit.ly/MGBankApp) – Full-stack restaurant management app with multiple user interfaces and secure data communication.  
+- 📌 [**Resto**](https://github.com/K4rimCraft/Restaurant-App) – Full-stack restaurant management app with multiple user interfaces and secure data communication.  
 - 📌 [**Sudoku Game**](https://github.com/MGehad/Sudoku_Game) – A sleek and interactive Sudoku game built using Flutter.  
 - 📌 [**Field Calculator**](https://github.com/MGehad/Field-Calculator) – Mobile app for solving various field engineering problems.  
 
