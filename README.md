@@ -1,7 +1,7 @@
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 
 <p align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=500&height=70&lines=I'm+Mohamed+Gehad+Hussien;Flutter+Developer;Mobile+App+Specialist;Final+Year+Student;Computer+%26+Systems+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&width=500&height=70&lines=I'm+Mohamed+Gehad+Hussien;Flutter+Developer;Mobile+App+Specialist;Fresh+Grad;Computer+%26+Systems+Engineer">
 </p>
 	<img src="https://komarev.com/ghpvc/?username=MGehad&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 
@@ -9,17 +9,17 @@
 
 ---
 
-- 🎓 Final-year **Computer & Systems Engineering** student at Zagazig University.  
+- 🎓 Fresh Grad **Computer & Systems Engineering** student at Zagazig University.  
 - 📱 Focused on building **mobile apps with Flutter**.  
 - 💬 Ask me about **Flutter, Dart, Java, Kotlin, and OOP**.  
-- 📫 Reach me at **ENGMGehad@gmail.com**  
+- 📫 Reach me at **engmgehad@gmail.com**  
 
 ---
 
 ### 🌐 Connect with me  
 <p align="center">
-  <a href="mailto:ENGMGehad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-  <a href="https://mohamedgehad.dev/"><img src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=google-chrome&logoColor=white"></a>&nbsp;
+  <a href="mailto:engmgehad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://www.mohamedgehad.qd.je/"><img src="https://img.shields.io/badge/Website-24292e?style=for-the-badge&logo=google-chrome&logoColor=white"></a>&nbsp;
   <a href="https://www.linkedin.com/in/MGehad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -33,11 +33,33 @@ My work focuses on creating **scalable, clean, and impactful mobile applications
 
 ## 📱 Featured Projects  
 
+### 🔹 [SihaCore](https://appgallery.cloud.huawei.com/ag/n/app/C116972953)  
+Healthcare platform connecting Patients, Doctors, Hospitals, Clinics, and Laboratories
+- Built a unified Electronic Medical Record (EMR) with secure QR-based record sharing and role-based access control.
+- Implemented appointment booking payment, Stripe payment integration, digital wallets, notifications,and reminders.
+- Used BLoC (Cubit), Clean Architecture, REST APIs, and Firebase Cloud Messaging to build a scalable and maintainable application.
+- Published the application on Huawei AppGallery and prepared it for Google Play deployment.
+- Designed and implemented mobile applications for five different healthcare roles, each with dedicated workflows and user experiences.
+
+---
+
+### 🔹 [Space Hunters](https://appetize.io/app/b_irjfqddzwqp4o4vzl2skhad4va)  
+Mobile Application to simplify access to NASA research papers in an interactive way
+- Used Gemini AI to generate summaries and answer user questions about each study.
+- Built data visualizations, including statistics, comparison charts, and trend analysis.
+- Created a context-based AI chat system for each research paper.
+- Added Speech-to-Text and Text-to-Speech to improve user interaction.
+- Designed a modern and responsive UI with search, filtering, and categories.
+
+---
+
 ### 🔹 [You Do](https://play.google.com/store/apps/details?id=mohamed.gehad.you_do)  
-Turn YouTube playlists into actionable tasks.  
-- Add from clipboard or share button  
-- Track progress & notifications  
-- Multi-language support & clean UI  
+Flutter Application that transforms YouTube playlists into actionable tasks for productivity.
+- Integrated Hive for local storage to support offline functionality and task management.
+- Designed a Responsive and user-friendly interface across different device sizes.
+- Implemented Daily Notifications based on user-selected days and scheduled times
+- Added task reordering, statistics, and language settings.
+-Published the app on Google Play & AppGallery.
 
 ---
 
